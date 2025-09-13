@@ -8,7 +8,7 @@ function Unauthorized() {
 
 	return (
 		<Layout title='Unauthorized Page'>
-			<h1 className='text-xl'>Access Denied. Please contact website owner.</h1>
+			<h1 className='text-xl'>Access Denied</h1>
 			<div className='flex'>{message && <div className='mb-4 text-red-600'>{message}</div>}</div>
 		</Layout>
 	);
