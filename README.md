@@ -68,6 +68,4 @@ MyShop is an Ecommerce web application built with Next.js and MongoDB.
 
 ## Contact
 
-George Larsson - bolt.shiny220@gmail.com
-
-Project Link: https://github.com/devtech77snake/E-commerce-next
+Project Link: https://github.com/wildhunter4137/E-commerce-next
